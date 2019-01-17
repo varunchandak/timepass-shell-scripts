@@ -7,6 +7,8 @@
 #
 # Example:
 # ./string_generator.sh random
+#
+# Original Question asked on SO: https://bit.ly/2RAujRo
 
 # Output:
 # ---- one dot ----
