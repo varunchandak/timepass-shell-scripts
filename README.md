@@ -5,6 +5,6 @@ This repo contains BASH Shell scripting, made just for learning and fun purposes
 
 # Script Names
 * genPass.sh
-* string_generator.sh
+* genString.sh
 
 ### Use at your own risk
