@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This script is used to insert periods (dots, .) between a string.
-# This script is originally intended to generate aliases for Gmail Users (Tutorial Here: https://www.cloudbeings.in/2017/01/20/generate-thousands-of-email-addresses-using-your-own-email-address/)
+# This script is originally intended to generate aliases for Gmail Users (Tutorial Here: https://www.vrnchndk.in/2017/01/20/generate-thousands-of-email-addresses-using-your-own-email-address/)
 #
 # The script takes 1 input as a simple string
 #

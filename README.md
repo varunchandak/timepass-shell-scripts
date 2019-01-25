@@ -6,6 +6,7 @@ This repo contains BASH Shell scripting, made just for learning and fun purposes
 # Script Names
 * genPass.sh
 * genString.sh
+* genSSHKeys.sh
 * color_script.sh
 * colors.sh
 
